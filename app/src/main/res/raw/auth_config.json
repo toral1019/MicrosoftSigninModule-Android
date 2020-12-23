@@ -1,0 +1,14 @@
+{
+  "client_id" : "c5186932-f770-4107-848e-996e6d30fa8f",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.inexture.mssignin/%2Frn0m6TJIR79gIT%2BHb%2FZVR1V3%2Bc%3D",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}
